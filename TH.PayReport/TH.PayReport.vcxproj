@@ -24,6 +24,7 @@
     <ProjectGuid>{7f8758c1-aec7-4348-9495-59b98974f8cd}</ProjectGuid>
     <RootNamespace>THPayReport</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>TH.PayReport</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
